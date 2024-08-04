@@ -18,3 +18,4 @@ Instructed by the amazing instructors:
 - **Lab0**: Python Basics
 - **Lab1**: Regression
 - **Lab2**: Classification
+- **Lab2**: Classification 2  - Multi-layer Perceptron
